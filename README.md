@@ -24,13 +24,13 @@ git clone https://github.com/KevSchmitz/crm-react.git
 npm install
 ```
 
-3. Instalar Server Json
+3. Instalar JSON Server
 
 ```
 npm install -g json-server
 ```
 
-4. Iniciar Server Json
+4. Iniciar JSON Server
 
 ```
 json-server --watch db.json
