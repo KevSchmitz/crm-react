@@ -28,14 +28,6 @@
       "telefono": 1398198938,
       "email": "pedro@juan.com",
       "empresa": "Codigo Con Juan"
-    },
-    {
-      "nombre": "Kevin",
-      "empresa": "CodigoConJuan",
-      "email": "desca5b@gmail.com",
-      "telefono": "+541123993758",
-      "notas": "El cliente solicita un Ecommerce",
-      "id": 6
     }
   ]
 }
